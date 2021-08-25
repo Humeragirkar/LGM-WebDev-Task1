@@ -11,7 +11,7 @@ function toggleMenu() {
   navigation.classList.toggle('active');
 }
 
-// Life at BookMania 
+// Movie world
 // Slideshow Gallery
 function change(img_id){
   document.getElementById("img1").src=img_id;
